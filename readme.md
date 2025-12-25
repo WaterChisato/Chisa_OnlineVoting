@@ -1,3 +1,4 @@
+[一键部署在CF](https://dash.cloudflare.com/?to=%2F%3Aaccount%2Fworkers-and-pages%2Fcreate%2Fdeploy-to-workers&repository=https://github.com/WaterChisato/Chisa_OnlineVoting/)  
 「繁體中文」
 # 基于PHP构建的投票系统
 一個點擊網站就可以用的PHP投票系統，目前功能僅此而已  
