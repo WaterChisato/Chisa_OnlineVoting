@@ -4,9 +4,9 @@ session_start();
 
 // 使用您提供的数据库账号密码
 $host = 'localhost';
-$dbname = 'serula3hqa8nv'; // 数据库名
-$username = 'serula3hqa8nv'; // 数据库账号
-$password = '3X7L51sLn8h6'; // 数据库密码
+$dbname = '數據庫名'; // 数据库名
+$username = '帳號'; // 数据库账号
+$password = '密碼'; // 数据库密码
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
