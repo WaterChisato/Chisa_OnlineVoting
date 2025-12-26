@@ -299,5 +299,24 @@ $allQuestions = $pdo->query("SELECT id, question_text FROM questions WHERE is_ac
             <a href="admin_login.php">管理员入口</a>
         </div>
     </div>
+    <!-- 网站版权信息 -->
+<footer style="
+    text-align: center; 
+    margin-top: 40px; 
+    padding: 20px; 
+    background-color: rgba(255, 255, 255, 0.9); 
+    border-top: 1px solid #ddd;
+    font-size: 14px;
+    color: #666;
+">
+    <p>此网站由水喝千束制作，已开源，链接点击 
+        <a href="https://github.com/WaterChisato/Chisa_OnlineVoting/" 
+           target="_blank" 
+           style="color: #0366d6; text-decoration: none; font-weight: bold;">
+           这里
+        </a>
+    </p>
+</footer>
+
 </body>
 </html>
