@@ -25,4 +25,12 @@ $username = '帳號';
 $password = '密碼';
 // 按道理来说只需要改以上文字内容就完全OK
 ~~~
-
+如果你要修改主投票背景图，就修改 index.php 的
+~~~
+            background: url('https://logo.kf.waterchisato.top/tybj.jpg') no-repeat center center fixed;
+~~~
+中的
+~~~
+https://logo.kf.waterchisato.top/tybj.jpg
+//换成你自己的图片源就OK
+~~~  
