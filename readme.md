@@ -14,4 +14,13 @@
 | index.php       | 普通人投票面板                         |
 | admin.php       | 管理投票面板，更改管理用户名称和密码       |
 | admin_login.php | 管理员登录面板                         |
-| config.php      | 服务器配置文件，一般就需要改配置即可       |
+| config.php      | 服务器配置文件，一般就需要改配置即可       |      
+cofig.php的关于数据库代码如下   
+~~~
+$host = 'localhost';
+$dbname = '數據庫名'; 
+$username = '帳號'; 
+$password = '密碼';
+// 按道理来说只需要改以上文字内容就完全OK
+~~~
+
