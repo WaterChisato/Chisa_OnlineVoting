@@ -1,7 +1,5 @@
-
-「繁體中文」
 # 基于PHP构建的投票系统
-此仓库由 水之蔻放 组织编写  
+此仓库由 [水之蔻放](http://kf.waterchisato.top)  组织编写  
 ![水之蔻放](https://logo.kf.waterchisato.top/zy/kf/Gemini_Generated_Image_j8ue0wj8ue0wj8ue.png "图片title")
 [仓库链接](https://github.com/WaterChisato/Chisa_OnlineVoting/)  一個點擊網站就可以用的PHP投票系統，目前功能僅此而已  
 全匿名，無法查看投票人，僅允許單IP進行投票  
