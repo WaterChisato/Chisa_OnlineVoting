@@ -15,6 +15,8 @@
 | admin.php       | 管理投票面板，更改管理用户名称和密码       |
 | admin_login.php | 管理员登录面板                         |
 | config.php      | 服务器配置文件，一般就需要改配置即可       |      
+
+  
 cofig.php的关于数据库代码如下   
 ~~~
 $host = 'localhost';
