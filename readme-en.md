@@ -8,3 +8,5 @@ The management panel is simple and clear by default, with high openness. The def
 
 > During installation, modify the config.php configuration file. After modification, you can directly deploy it to the server.
 ***We recommend that you log in to the management panel to change your password as soon as possible after deployment. We are not responsible for any password theft.***
+
+  [CN](https://github.com/WaterChisato/Chisa_OnlineVoting/blob/main/readme.md)  
