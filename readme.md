@@ -31,4 +31,6 @@ $password = '密碼';
 ~~~
 https://logo.kf.waterchisato.top/tybj.jpg
 //换成你自己的图片源就OK
-~~~  
+~~~
+[EN](https://github.com/WaterChisato/Chisa_OnlineVoting/blob/main/readme-en.md)  
+
