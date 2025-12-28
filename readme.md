@@ -1,6 +1,6 @@
 # 基于PHP构建的投票系统
 此仓库由 [水之蔻放](http://kf.waterchisato.top)  组织编写  
-![水之蔻放](https://logo.kf.waterchisato.top/zy/kf/Gemini_Generated_Image_j8ue0wj8ue0wj8ue.png "图片title")
+![水之蔻放](http://logo.kf.waterchisato.top/zy/kf/Gemini_Generated_Image_j8ue0wj8ue0wj8ue.png "图片title")
 [仓库链接](https://github.com/WaterChisato/Chisa_OnlineVoting/)  一個點擊網站就可以用的PHP投票系統，目前功能僅此而已  
 全匿名，無法查看投票人，僅允許單IP進行投票  
 管理面板默認簡潔明瞭，有高開發性，密碼默認為**114514**，可以刪除某個投票選項，但是無法修改投票人數（也是對投票做了一種公平機制）。  
