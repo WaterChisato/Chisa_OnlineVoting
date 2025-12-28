@@ -32,5 +32,7 @@ $password = '密碼';
 https://logo.kf.waterchisato.top/tybj.jpg
 //换成你自己的图片源就OK
 ~~~
+admin.php的更改用户和密码教学  
+![水之蔻放-密码教学](https://logo.kf.waterchisato.top/zy/md/ticket/Screenshot_2025-12-28-16-14-14-00_40deb401b9ffe8e1df2f1cc5ba480b12~2.jpg "密码修改和用户修改")  
 [EN](https://github.com/WaterChisato/Chisa_OnlineVoting/blob/main/readme-en.md)  
 
